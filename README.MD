@@ -37,11 +37,8 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :wrench: Como Utilizar
 
-Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
+Clone essa aplicação utilizando o [Git](https://git-scm.com):
 
-```bash
-# Clonando esse repositório
-$ git clone https://github.com/felipeAguiarCode/jogo-mario.git
-```
+
 Em seguida execute o arquivo 'index.html' no seu navegador
 
